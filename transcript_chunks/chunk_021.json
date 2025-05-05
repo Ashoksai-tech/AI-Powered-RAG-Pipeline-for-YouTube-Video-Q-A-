@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:05:28.680 --> 00:05:35.120",
+      "text": "has uh autonomy, okay, it it has some",
+      "start": "00:05:28.680",
+      "end": "00:05:35.120"
+    },
+    {
+      "timestamp": "00:05:32.319 --> 00:05:37.038",
+      "text": "kind of agency where it can make certain",
+      "start": "00:05:32.319",
+      "end": "00:05:37.038"
+    },
+    {
+      "timestamp": "00:05:35.120 --> 00:05:40.560",
+      "text": "decisions and it can take certain",
+      "start": "00:05:35.120",
+      "end": "00:05:40.560"
+    },
+    {
+      "timestamp": "00:05:37.038 --> 00:05:42.560",
+      "text": "actions on its own. Plus it has",
+      "start": "00:05:37.038",
+      "end": "00:05:42.560"
+    },
+    {
+      "timestamp": "00:05:40.560 --> 00:05:45.600",
+      "text": "multi-step complex reasoning and",
+      "start": "00:05:40.560",
+      "end": "00:05:45.600"
+    },
+    {
+      "timestamp": "00:05:42.560 --> 00:05:47.680",
+      "text": "planning. That system is called agentic",
+      "start": "00:05:42.560",
+      "end": "00:05:47.680"
+    }
+  ],
+  "start_time": "00:05:28.680",
+  "end_time": "00:05:47.680",
+  "merged_text": "has uh autonomy, okay, it it has some kind of agency where it can make certain decisions and it can take certain actions on its own. Plus it has multi-step complex reasoning and planning. That system is called agentic",
+  "segment_count": 6
+}

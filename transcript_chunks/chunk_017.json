@@ -1,0 +1,38 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:04:21.839 --> 00:04:26.879",
+      "text": "oriented planning you are not giving a",
+      "start": "00:04:21.839",
+      "end": "00:04:26.879"
+    },
+    {
+      "timestamp": "00:04:24.160 --> 00:04:29.840",
+      "text": "task such as tell me how many leaves I",
+      "start": "00:04:24.160",
+      "end": "00:04:29.840"
+    },
+    {
+      "timestamp": "00:04:26.879 --> 00:04:35.319",
+      "text": "have left okay two that is a simple task",
+      "start": "00:04:26.879",
+      "end": "00:04:35.319"
+    },
+    {
+      "timestamp": "00:04:29.839 --> 00:04:38.399",
+      "text": "you are giving here a complex task which",
+      "start": "00:04:29.839",
+      "end": "00:04:38.399"
+    },
+    {
+      "timestamp": "00:04:35.319 --> 00:04:40.079",
+      "text": "requires reasoning as well as multi-step",
+      "start": "00:04:35.319",
+      "end": "00:04:40.079"
+    }
+  ],
+  "start_time": "00:04:21.839",
+  "end_time": "00:04:40.079",
+  "merged_text": "oriented planning you are not giving a task such as tell me how many leaves I have left okay two that is a simple task you are giving here a complex task which requires reasoning as well as multi-step",
+  "segment_count": 5
+}

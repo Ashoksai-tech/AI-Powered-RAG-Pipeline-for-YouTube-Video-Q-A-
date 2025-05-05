@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:02:58.318 --> 00:03:03.518",
+      "text": "management system. So now you have",
+      "start": "00:02:58.318",
+      "end": "00:03:03.518"
+    },
+    {
+      "timestamp": "00:03:00.639 --> 00:03:06.399",
+      "text": "integration uh through your HR",
+      "start": "00:03:00.639",
+      "end": "00:03:06.399"
+    },
+    {
+      "timestamp": "00:03:03.519 --> 00:03:10.640",
+      "text": "management system APIs where it can go",
+      "start": "00:03:03.519",
+      "end": "00:03:10.640"
+    },
+    {
+      "timestamp": "00:03:06.400 --> 00:03:12.640",
+      "text": "and create interns profile at every step",
+      "start": "00:03:06.400",
+      "end": "00:03:12.640"
+    },
+    {
+      "timestamp": "00:03:10.639 --> 00:03:14.639",
+      "text": "there will be some generation also right",
+      "start": "00:03:10.639",
+      "end": "00:03:14.639"
+    },
+    {
+      "timestamp": "00:03:12.639 --> 00:03:16.318",
+      "text": "because you let's say if you want to",
+      "start": "00:03:12.639",
+      "end": "00:03:16.318"
+    }
+  ],
+  "start_time": "00:02:58.318",
+  "end_time": "00:03:16.318",
+  "merged_text": "management system. So now you have integration uh through your HR management system APIs where it can go and create interns profile at every step there will be some generation also right because you let's say if you want to",
+  "segment_count": 6
+}

@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:12:00.559 --> 00:12:04.479",
+      "text": "email. It might summarize something. It",
+      "start": "00:12:00.559",
+      "end": "00:12:04.479"
+    },
+    {
+      "timestamp": "00:12:03.200 --> 00:12:06.560",
+      "text": "will have all those generation",
+      "start": "00:12:03.200",
+      "end": "00:12:06.560"
+    },
+    {
+      "timestamp": "00:12:04.480 --> 00:12:09.600",
+      "text": "capabilities and it is one of the",
+      "start": "00:12:04.480",
+      "end": "00:12:09.600"
+    },
+    {
+      "timestamp": "00:12:06.559 --> 00:12:12.638",
+      "text": "component in your agentic AI system. All",
+      "start": "00:12:06.559",
+      "end": "00:12:12.638"
+    },
+    {
+      "timestamp": "00:12:09.600 --> 00:12:14.720",
+      "text": "right. So generative AI is related to",
+      "start": "00:12:09.600",
+      "end": "00:12:14.720"
+    },
+    {
+      "timestamp": "00:12:12.639 --> 00:12:17.278",
+      "text": "generating new data, text, video, images",
+      "start": "00:12:12.639",
+      "end": "00:12:17.278"
+    },
+    {
+      "timestamp": "00:12:14.720 --> 00:12:19.839",
+      "text": "and so on. And you can have that as a",
+      "start": "00:12:14.720",
+      "end": "00:12:19.839"
+    }
+  ],
+  "start_time": "00:12:00.559",
+  "end_time": "00:12:19.839",
+  "merged_text": "email. It might summarize something. It will have all those generation capabilities and it is one of the component in your agentic AI system. All right. So generative AI is related to generating new data, text, video, images and so on. And you can have that as a",
+  "segment_count": 7
+}

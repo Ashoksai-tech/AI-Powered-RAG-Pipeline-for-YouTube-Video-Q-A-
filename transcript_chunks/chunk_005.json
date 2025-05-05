@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:01:03.039 --> 00:01:09.599",
+      "text": "workflow. It is not agentic. Let's",
+      "start": "00:01:03.039",
+      "end": "00:01:09.599"
+    },
+    {
+      "timestamp": "00:01:05.840 --> 00:01:12.320",
+      "text": "advance this chatboard a bit more and",
+      "start": "00:01:05.840",
+      "end": "00:01:12.320"
+    },
+    {
+      "timestamp": "00:01:09.599 --> 00:01:14.478",
+      "text": "let's add a support where you can ask",
+      "start": "00:01:09.599",
+      "end": "00:01:14.478"
+    },
+    {
+      "timestamp": "00:01:12.319 --> 00:01:17.039",
+      "text": "question. Okay, how many leaves do I",
+      "start": "00:01:12.319",
+      "end": "00:01:17.039"
+    },
+    {
+      "timestamp": "00:01:14.478 --> 00:01:19.118",
+      "text": "have left? Specifically, you know, as an",
+      "start": "00:01:14.478",
+      "end": "00:01:19.118"
+    },
+    {
+      "timestamp": "00:01:17.040 --> 00:01:22.159",
+      "text": "employee, how many leaves do I have",
+      "start": "00:01:17.040",
+      "end": "00:01:22.159"
+    }
+  ],
+  "start_time": "00:01:03.039",
+  "end_time": "00:01:22.159",
+  "merged_text": "workflow. It is not agentic. Let's advance this chatboard a bit more and let's add a support where you can ask question. Okay, how many leaves do I have left? Specifically, you know, as an employee, how many leaves do I have",
+  "segment_count": 6
+}

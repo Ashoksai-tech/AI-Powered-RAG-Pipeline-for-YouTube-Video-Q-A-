@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:13:52.399 --> 00:13:57.360",
+      "text": "LLM does not know that also we can",
+      "start": "00:13:52.399",
+      "end": "00:13:57.360"
+    },
+    {
+      "timestamp": "00:13:54.639 --> 00:13:59.680",
+      "text": "specifically handle. So we can add any",
+      "start": "00:13:54.639",
+      "end": "00:13:59.680"
+    },
+    {
+      "timestamp": "00:13:57.360 --> 00:14:01.440",
+      "text": "number of conditions over here and this",
+      "start": "00:13:57.360",
+      "end": "00:14:01.440"
+    },
+    {
+      "timestamp": "00:13:59.679 --> 00:14:04.159",
+      "text": "is nothing but this is called as",
+      "start": "00:13:59.679",
+      "end": "00:14:04.159"
+    },
+    {
+      "timestamp": "00:14:01.440 --> 00:14:08.000",
+      "text": "routing. Okay. So routing you can add",
+      "start": "00:14:01.440",
+      "end": "00:14:08.000"
+    },
+    {
+      "timestamp": "00:14:04.159 --> 00:14:10.958",
+      "text": "any number of routers. Right? So I hope",
+      "start": "00:14:04.159",
+      "end": "00:14:10.958"
+    }
+  ],
+  "start_time": "00:13:52.399",
+  "end_time": "00:14:10.958",
+  "merged_text": "LLM does not know that also we can specifically handle. So we can add any number of conditions over here and this is nothing but this is called as routing. Okay. So routing you can add any number of routers. Right? So I hope",
+  "segment_count": 6
+}

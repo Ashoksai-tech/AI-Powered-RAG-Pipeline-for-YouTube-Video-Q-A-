@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:13:21.919 --> 00:13:27.278",
+      "text": "is another example of orchestrator based",
+      "start": "00:13:21.919",
+      "end": "00:13:27.278"
+    },
+    {
+      "timestamp": "00:13:24.799 --> 00:13:30.319",
+      "text": "workers. This is also a workflow and",
+      "start": "00:13:24.799",
+      "end": "00:13:30.319"
+    },
+    {
+      "timestamp": "00:13:27.278 --> 00:13:31.919",
+      "text": "then comes agents. So for agents see",
+      "start": "00:13:27.278",
+      "end": "00:13:31.919"
+    },
+    {
+      "timestamp": "00:13:30.320 --> 00:13:34.320",
+      "text": "there will be this kind of loop. So",
+      "start": "00:13:30.320",
+      "end": "00:13:34.320"
+    },
+    {
+      "timestamp": "00:13:31.919 --> 00:13:36.319",
+      "text": "action feedback action feedback you know",
+      "start": "00:13:31.919",
+      "end": "00:13:36.319"
+    },
+    {
+      "timestamp": "00:13:34.320 --> 00:13:38.959",
+      "text": "multi-step reasoning multi-step",
+      "start": "00:13:34.320",
+      "end": "00:13:38.959"
+    },
+    {
+      "timestamp": "00:13:36.320 --> 00:13:41.200",
+      "text": "planning. Folks I hope now it is clear",
+      "start": "00:13:36.320",
+      "end": "00:13:41.200"
+    }
+  ],
+  "start_time": "00:13:21.919",
+  "end_time": "00:13:41.200",
+  "merged_text": "is another example of orchestrator based workers. This is also a workflow and then comes agents. So for agents see there will be this kind of loop. So action feedback action feedback you know multi-step reasoning multi-step planning. Folks I hope now it is clear",
+  "segment_count": 7
+}

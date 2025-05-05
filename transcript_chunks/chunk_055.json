@@ -1,0 +1,32 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:14:41.440 --> 00:14:46.720",
+      "text": "videos are specifically created to make",
+      "start": "00:14:41.440",
+      "end": "00:14:46.720"
+    },
+    {
+      "timestamp": "00:14:44.159 --> 00:14:48.159",
+      "text": "your basics really really strong. So",
+      "start": "00:14:44.159",
+      "end": "00:14:48.159"
+    },
+    {
+      "timestamp": "00:14:46.720 --> 00:14:51.199",
+      "text": "yes, this was it for my side. I'll see",
+      "start": "00:14:46.720",
+      "end": "00:14:51.199"
+    },
+    {
+      "timestamp": "00:14:48.159 --> 00:14:51.198",
+      "text": "you in the next video. Thank you.",
+      "start": "00:14:48.159",
+      "end": "00:14:51.198"
+    }
+  ],
+  "start_time": "00:14:41.440",
+  "end_time": "00:14:51.198",
+  "merged_text": "videos are specifically created to make your basics really really strong. So yes, this was it for my side. I'll see you in the next video. Thank you.",
+  "segment_count": 4
+}

@@ -1,0 +1,38 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:12:32.759 --> 00:12:39.600",
+      "text": "generator and the second one is MCP for",
+      "start": "00:12:32.759",
+      "end": "00:12:39.600"
+    },
+    {
+      "timestamp": "00:12:36.559 --> 00:12:42.799",
+      "text": "that HR le management and also I would",
+      "start": "00:12:36.559",
+      "end": "00:12:42.799"
+    },
+    {
+      "timestamp": "00:12:39.600 --> 00:12:46.800",
+      "text": "suggest you read this building effective",
+      "start": "00:12:39.600",
+      "end": "00:12:46.800"
+    },
+    {
+      "timestamp": "00:12:42.799 --> 00:12:49.519",
+      "text": "agents guide by anthropic. They have",
+      "start": "00:12:42.799",
+      "end": "00:12:49.519"
+    },
+    {
+      "timestamp": "00:12:46.799 --> 00:12:51.199",
+      "text": "mentioned various design patterns. So",
+      "start": "00:12:46.799",
+      "end": "00:12:51.199"
+    }
+  ],
+  "start_time": "00:12:32.759",
+  "end_time": "00:12:51.199",
+  "merged_text": "generator and the second one is MCP for that HR le management and also I would suggest you read this building effective agents guide by anthropic. They have mentioned various design patterns. So",
+  "segment_count": 5
+}

@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:05:13.199 --> 00:05:17.680",
+      "text": "a PDF files, database and so on. It will",
+      "start": "00:05:13.199",
+      "end": "00:05:17.680"
+    },
+    {
+      "timestamp": "00:05:16.160 --> 00:05:19.360",
+      "text": "also have a memory. So when you are",
+      "start": "00:05:16.160",
+      "end": "00:05:19.360"
+    },
+    {
+      "timestamp": "00:05:17.680 --> 00:05:22.720",
+      "text": "having a conversation, it will have a",
+      "start": "00:05:17.680",
+      "end": "00:05:22.720"
+    },
+    {
+      "timestamp": "00:05:19.360 --> 00:05:25.360",
+      "text": "context, it will remember things. So",
+      "start": "00:05:19.360",
+      "end": "00:05:25.360"
+    },
+    {
+      "timestamp": "00:05:22.720 --> 00:05:28.680",
+      "text": "this is agentic chatboard. Okay. And any",
+      "start": "00:05:22.720",
+      "end": "00:05:28.680"
+    },
+    {
+      "timestamp": "00:05:25.360 --> 00:05:32.319",
+      "text": "AI system that you are building uh which",
+      "start": "00:05:25.360",
+      "end": "00:05:32.319"
+    }
+  ],
+  "start_time": "00:05:13.199",
+  "end_time": "00:05:32.319",
+  "merged_text": "a PDF files, database and so on. It will also have a memory. So when you are having a conversation, it will have a context, it will remember things. So this is agentic chatboard. Okay. And any AI system that you are building uh which",
+  "segment_count": 6
+}

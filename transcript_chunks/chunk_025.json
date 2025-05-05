@@ -1,0 +1,38 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:06:33.519 --> 00:06:38.478",
+      "text": "coding. If you're using lovable or",
+      "start": "00:06:33.519",
+      "end": "00:06:38.478"
+    },
+    {
+      "timestamp": "00:06:35.519 --> 00:06:41.758",
+      "text": "replet to create a react native app",
+      "start": "00:06:35.519",
+      "end": "00:06:41.758"
+    },
+    {
+      "timestamp": "00:06:38.478 --> 00:06:45.199",
+      "text": "similar to to-do east okay then see it",
+      "start": "00:06:38.478",
+      "end": "00:06:45.199"
+    },
+    {
+      "timestamp": "00:06:41.759 --> 00:06:48.800",
+      "text": "will first figure out what kind of",
+      "start": "00:06:41.759",
+      "end": "00:06:48.800"
+    },
+    {
+      "timestamp": "00:06:45.199 --> 00:06:51.439",
+      "text": "features to-do list has then it will do",
+      "start": "00:06:45.199",
+      "end": "00:06:51.439"
+    }
+  ],
+  "start_time": "00:06:33.519",
+  "end_time": "00:06:51.439",
+  "merged_text": "coding. If you're using lovable or replet to create a react native app similar to to-do east okay then see it will first figure out what kind of features to-do list has then it will do",
+  "segment_count": 5
+}

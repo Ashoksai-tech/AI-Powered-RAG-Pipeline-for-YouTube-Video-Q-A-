@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:07:05.439 --> 00:07:11.519",
+      "text": "rapit, etc. is an example of an agentic",
+      "start": "00:07:05.439",
+      "end": "00:07:11.519"
+    },
+    {
+      "timestamp": "00:07:08.639 --> 00:07:13.038",
+      "text": "AI system. The other one is travel",
+      "start": "00:07:08.639",
+      "end": "00:07:13.038"
+    },
+    {
+      "timestamp": "00:07:11.519 --> 00:07:15.519",
+      "text": "assistant. You might have a travel",
+      "start": "00:07:11.519",
+      "end": "00:07:15.519"
+    },
+    {
+      "timestamp": "00:07:13.038 --> 00:07:18.079",
+      "text": "assistant where you can say book a 7-day",
+      "start": "00:07:13.038",
+      "end": "00:07:18.079"
+    },
+    {
+      "timestamp": "00:07:15.519 --> 00:07:20.560",
+      "text": "trip to London in May where where the",
+      "start": "00:07:15.519",
+      "end": "00:07:20.560"
+    },
+    {
+      "timestamp": "00:07:18.079 --> 00:07:22.079",
+      "text": "weather is sunny for at least 4 days.",
+      "start": "00:07:18.079",
+      "end": "00:07:22.079"
+    },
+    {
+      "timestamp": "00:07:20.560 --> 00:07:23.839",
+      "text": "This is usually my criteria. You know,",
+      "start": "00:07:20.560",
+      "end": "00:07:23.839"
+    }
+  ],
+  "start_time": "00:07:05.439",
+  "end_time": "00:07:23.839",
+  "merged_text": "rapit, etc. is an example of an agentic AI system. The other one is travel assistant. You might have a travel assistant where you can say book a 7-day trip to London in May where where the weather is sunny for at least 4 days. This is usually my criteria. You know,",
+  "segment_count": 7
+}

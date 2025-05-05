@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:07:22.079 --> 00:07:26.560",
+      "text": "whenever I go anywhere, I want the",
+      "start": "00:07:22.079",
+      "end": "00:07:26.560"
+    },
+    {
+      "timestamp": "00:07:23.839 --> 00:07:30.638",
+      "text": "weather to be sunny. And you have some",
+      "start": "00:07:23.839",
+      "end": "00:07:30.638"
+    },
+    {
+      "timestamp": "00:07:26.560 --> 00:07:32.879",
+      "text": "uh budget uh constraints. So now if you",
+      "start": "00:07:26.560",
+      "end": "00:07:32.879"
+    },
+    {
+      "timestamp": "00:07:30.639 --> 00:07:35.519",
+      "text": "have built agentic AI system, it will",
+      "start": "00:07:30.639",
+      "end": "00:07:35.519"
+    },
+    {
+      "timestamp": "00:07:32.879 --> 00:07:38.159",
+      "text": "first prepare a plan. You know how",
+      "start": "00:07:32.879",
+      "end": "00:07:38.159"
+    },
+    {
+      "timestamp": "00:07:35.519 --> 00:07:40.318",
+      "text": "deepsek creates that plan or any other",
+      "start": "00:07:35.519",
+      "end": "00:07:40.318"
+    }
+  ],
+  "start_time": "00:07:22.079",
+  "end_time": "00:07:40.318",
+  "merged_text": "whenever I go anywhere, I want the weather to be sunny. And you have some uh budget uh constraints. So now if you have built agentic AI system, it will first prepare a plan. You know how deepsek creates that plan or any other",
+  "segment_count": 6
+}

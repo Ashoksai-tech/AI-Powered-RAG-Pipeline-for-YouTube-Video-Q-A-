@@ -1,0 +1,38 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:11:44.078 --> 00:11:52.958",
+      "text": "is the difference between Gen AI? Okay,",
+      "start": "00:11:44.078",
+      "end": "00:11:52.958"
+    },
+    {
+      "timestamp": "00:11:47.120 --> 00:11:55.519",
+      "text": "Gen AI versus agentic AI. Well, Genai is",
+      "start": "00:11:47.120",
+      "end": "00:11:55.519"
+    },
+    {
+      "timestamp": "00:11:52.958 --> 00:11:58.719",
+      "text": "part of agentic AI. So you see this",
+      "start": "00:11:52.958",
+      "end": "00:11:58.719"
+    },
+    {
+      "timestamp": "00:11:55.519 --> 00:12:00.560",
+      "text": "Google Gemini model. So this model might",
+      "start": "00:11:55.519",
+      "end": "00:12:00.560"
+    },
+    {
+      "timestamp": "00:11:58.720 --> 00:12:03.200",
+      "text": "generate some text. It might write",
+      "start": "00:11:58.720",
+      "end": "00:12:03.200"
+    }
+  ],
+  "start_time": "00:11:44.078",
+  "end_time": "00:12:03.200",
+  "merged_text": "is the difference between Gen AI? Okay, Gen AI versus agentic AI. Well, Genai is part of agentic AI. So you see this Google Gemini model. So this model might generate some text. It might write",
+  "segment_count": 5
+}

@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:08:26.240 --> 00:08:30.720",
+      "text": "And here we are using agno framework.",
+      "start": "00:08:26.240",
+      "end": "00:08:30.720"
+    },
+    {
+      "timestamp": "00:08:28.639 --> 00:08:32.399",
+      "text": "You can just say pip install agno and",
+      "start": "00:08:28.639",
+      "end": "00:08:32.399"
+    },
+    {
+      "timestamp": "00:08:30.720 --> 00:08:33.680",
+      "text": "you can run this code. This code is",
+      "start": "00:08:30.720",
+      "end": "00:08:33.680"
+    },
+    {
+      "timestamp": "00:08:32.399 --> 00:08:36.799",
+      "text": "available in the video description",
+      "start": "00:08:32.399",
+      "end": "00:08:36.799"
+    },
+    {
+      "timestamp": "00:08:33.679 --> 00:08:40.958",
+      "text": "below. Now when I run this, see here I'm",
+      "start": "00:08:33.679",
+      "end": "00:08:40.958"
+    },
+    {
+      "timestamp": "00:08:36.799 --> 00:08:43.918",
+      "text": "using gemini as a model here. And what",
+      "start": "00:08:36.799",
+      "end": "00:08:43.918"
+    },
+    {
+      "timestamp": "00:08:40.958 --> 00:08:47.518",
+      "text": "it will do is it will look at this goal",
+      "start": "00:08:40.958",
+      "end": "00:08:47.518"
+    }
+  ],
+  "start_time": "00:08:26.240",
+  "end_time": "00:08:47.518",
+  "merged_text": "And here we are using agno framework. You can just say pip install agno and you can run this code. This code is available in the video description below. Now when I run this, see here I'm using gemini as a model here. And what it will do is it will look at this goal",
+  "segment_count": 7
+}

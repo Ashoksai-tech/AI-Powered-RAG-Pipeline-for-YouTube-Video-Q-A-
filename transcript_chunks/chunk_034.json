@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:09:02.320 --> 00:09:06.000",
+      "text": "all these steps right like getting a",
+      "start": "00:09:02.320",
+      "end": "00:09:06.000"
+    },
+    {
+      "timestamp": "00:09:03.839 --> 00:09:08.560",
+      "text": "company info, analyst recommendation,",
+      "start": "00:09:03.839",
+      "end": "00:09:08.560"
+    },
+    {
+      "timestamp": "00:09:06.000 --> 00:09:10.639",
+      "text": "company news. So it is doing all of that",
+      "start": "00:09:06.000",
+      "end": "00:09:10.639"
+    },
+    {
+      "timestamp": "00:09:08.559 --> 00:09:13.518",
+      "text": "step by step and generating this",
+      "start": "00:09:08.559",
+      "end": "00:09:13.518"
+    },
+    {
+      "timestamp": "00:09:10.639 --> 00:09:16.958",
+      "text": "comprehensive report which has some key",
+      "start": "00:09:10.639",
+      "end": "00:09:16.958"
+    },
+    {
+      "timestamp": "00:09:13.519 --> 00:09:18.639",
+      "text": "statistics for that company. Uh analyst",
+      "start": "00:09:13.519",
+      "end": "00:09:18.639"
+    },
+    {
+      "timestamp": "00:09:16.958 --> 00:09:20.879",
+      "text": "recommendation is one of the common",
+      "start": "00:09:16.958",
+      "end": "00:09:20.879"
+    }
+  ],
+  "start_time": "00:09:02.320",
+  "end_time": "00:09:20.879",
+  "merged_text": "all these steps right like getting a company info, analyst recommendation, company news. So it is doing all of that step by step and generating this comprehensive report which has some key statistics for that company. Uh analyst recommendation is one of the common",
+  "segment_count": 7
+}

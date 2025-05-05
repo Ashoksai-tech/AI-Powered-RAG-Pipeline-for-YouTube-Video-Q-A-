@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:06:01.038 --> 00:06:06.079",
+      "text": "step. Here is a table summarizing the",
+      "start": "00:06:01.038",
+      "end": "00:06:06.079"
+    },
+    {
+      "timestamp": "00:06:03.360 --> 00:06:08.639",
+      "text": "capabilities of all three chatboards.",
+      "start": "00:06:03.360",
+      "end": "00:06:08.639"
+    },
+    {
+      "timestamp": "00:06:06.079 --> 00:06:10.560",
+      "text": "The rack based chatboard is reactive",
+      "start": "00:06:06.079",
+      "end": "00:06:10.560"
+    },
+    {
+      "timestamp": "00:06:08.639 --> 00:06:13.120",
+      "text": "which means more like Q&A. You ask a",
+      "start": "00:06:08.639",
+      "end": "00:06:13.120"
+    },
+    {
+      "timestamp": "00:06:10.560 --> 00:06:15.918",
+      "text": "question it responds but it doesn't have",
+      "start": "00:06:10.560",
+      "end": "00:06:15.918"
+    },
+    {
+      "timestamp": "00:06:13.120 --> 00:06:19.038",
+      "text": "tool usage, reasoning etc. The second",
+      "start": "00:06:13.120",
+      "end": "00:06:19.038"
+    }
+  ],
+  "start_time": "00:06:01.038",
+  "end_time": "00:06:19.038",
+  "merged_text": "step. Here is a table summarizing the capabilities of all three chatboards. The rack based chatboard is reactive which means more like Q&A. You ask a question it responds but it doesn't have tool usage, reasoning etc. The second",
+  "segment_count": 6
+}

@@ -1,0 +1,38 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:01:52.399 --> 00:01:59.359",
+      "text": "Sharma or Abdul Kadir whoever you you",
+      "start": "00:01:52.399",
+      "end": "00:01:59.359"
+    },
+    {
+      "timestamp": "00:01:55.118 --> 00:02:02.239",
+      "text": "are and it will take the necessary",
+      "start": "00:01:55.118",
+      "end": "00:02:02.239"
+    },
+    {
+      "timestamp": "00:01:59.359 --> 00:02:04.799",
+      "text": "action. Do we call this agentic AI?",
+      "start": "00:01:59.359",
+      "end": "00:02:04.799"
+    },
+    {
+      "timestamp": "00:02:02.239 --> 00:02:09.038",
+      "text": "Well, the answer is again no. This is",
+      "start": "00:02:02.239",
+      "end": "00:02:09.038"
+    },
+    {
+      "timestamp": "00:02:04.799 --> 00:02:12.959",
+      "text": "tool augmented chatboard. We want to",
+      "start": "00:02:04.799",
+      "end": "00:02:12.959"
+    }
+  ],
+  "start_time": "00:01:52.399",
+  "end_time": "00:02:12.959",
+  "merged_text": "Sharma or Abdul Kadir whoever you you are and it will take the necessary action. Do we call this agentic AI? Well, the answer is again no. This is tool augmented chatboard. We want to",
+  "segment_count": 5
+}

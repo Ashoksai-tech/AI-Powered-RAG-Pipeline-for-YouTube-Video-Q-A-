@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:07:52.478 --> 00:07:59.439",
+      "text": "system, I might have integrated Acue",
+      "start": "00:07:52.478",
+      "end": "00:07:59.439"
+    },
+    {
+      "timestamp": "00:07:56.000 --> 00:08:01.839",
+      "text": "weather API for weather, Xedia API for",
+      "start": "00:07:56.000",
+      "end": "00:08:01.839"
+    },
+    {
+      "timestamp": "00:07:59.439 --> 00:08:04.800",
+      "text": "booking flights and so on. Here is a",
+      "start": "00:07:59.439",
+      "end": "00:08:04.800"
+    },
+    {
+      "timestamp": "00:08:01.839 --> 00:08:07.918",
+      "text": "small example of agentic AI system where",
+      "start": "00:08:01.839",
+      "end": "00:08:07.918"
+    },
+    {
+      "timestamp": "00:08:04.800 --> 00:08:10.240",
+      "text": "you are writing an agent to assist an",
+      "start": "00:08:04.800",
+      "end": "00:08:10.240"
+    },
+    {
+      "timestamp": "00:08:07.918 --> 00:08:13.038",
+      "text": "equity research analyst. They usually",
+      "start": "00:08:07.918",
+      "end": "00:08:13.038"
+    }
+  ],
+  "start_time": "00:07:52.478",
+  "end_time": "00:08:13.038",
+  "merged_text": "system, I might have integrated Acue weather API for weather, Xedia API for booking flights and so on. Here is a small example of agentic AI system where you are writing an agent to assist an equity research analyst. They usually",
+  "segment_count": 6
+}

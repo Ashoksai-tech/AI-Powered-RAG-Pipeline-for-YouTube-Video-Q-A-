@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:08:10.240 --> 00:08:14.800",
+      "text": "write reports on companies. So here you",
+      "start": "00:08:10.240",
+      "end": "00:08:14.800"
+    },
+    {
+      "timestamp": "00:08:13.038 --> 00:08:17.598",
+      "text": "are giving a goal. You are not giving",
+      "start": "00:08:13.038",
+      "end": "00:08:17.598"
+    },
+    {
+      "timestamp": "00:08:14.800 --> 00:08:21.120",
+      "text": "the exit steps. Okay. Write a report on",
+      "start": "00:08:14.800",
+      "end": "00:08:21.120"
+    },
+    {
+      "timestamp": "00:08:17.598 --> 00:08:23.680",
+      "text": "Nvidia. You're also giving it access to",
+      "start": "00:08:17.598",
+      "end": "00:08:23.680"
+    },
+    {
+      "timestamp": "00:08:21.120 --> 00:08:26.240",
+      "text": "y finance tool reasoning tools. You can",
+      "start": "00:08:21.120",
+      "end": "00:08:26.240"
+    },
+    {
+      "timestamp": "00:08:23.680 --> 00:08:28.639",
+      "text": "provide duck duck go search and so on.",
+      "start": "00:08:23.680",
+      "end": "00:08:28.639"
+    }
+  ],
+  "start_time": "00:08:10.240",
+  "end_time": "00:08:28.639",
+  "merged_text": "write reports on companies. So here you are giving a goal. You are not giving the exit steps. Okay. Write a report on Nvidia. You're also giving it access to y finance tool reasoning tools. You can provide duck duck go search and so on.",
+  "segment_count": 6
+}

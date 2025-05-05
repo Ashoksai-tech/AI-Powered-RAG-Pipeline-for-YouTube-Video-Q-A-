@@ -1,0 +1,32 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:13:38.958 --> 00:13:43.439",
+      "text": "what exactly is agentic AI. It's just a",
+      "start": "00:13:38.958",
+      "end": "00:13:43.439"
+    },
+    {
+      "timestamp": "00:13:41.200 --> 00:13:45.120",
+      "text": "jargon. The idea is really simple.",
+      "start": "00:13:41.200",
+      "end": "00:13:45.120"
+    },
+    {
+      "timestamp": "00:13:43.440 --> 00:13:48.480",
+      "text": "Please check video description for the",
+      "start": "00:13:43.440",
+      "end": "00:13:48.480"
+    },
+    {
+      "timestamp": "00:13:45.120 --> 00:13:48.480",
+      "text": "code and other resources.",
+      "start": "00:13:45.120",
+      "end": "00:13:48.480"
+    }
+  ],
+  "start_time": "00:13:38.958",
+  "end_time": "00:13:48.480",
+  "merged_text": "what exactly is agentic AI. It's just a jargon. The idea is really simple. Please check video description for the code and other resources.",
+  "segment_count": 4
+}

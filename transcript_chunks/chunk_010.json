@@ -1,0 +1,38 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:02:27.280 --> 00:02:33.120",
+      "text": "requires multi-step planning. Okay. So,",
+      "start": "00:02:27.280",
+      "end": "00:02:33.120"
+    },
+    {
+      "timestamp": "00:02:30.239 --> 00:02:37.120",
+      "text": "let's call this a broader goal. It is",
+      "start": "00:02:30.239",
+      "end": "00:02:37.120"
+    },
+    {
+      "timestamp": "00:02:33.120 --> 00:02:40.400",
+      "text": "not a simple task. It's a complex task",
+      "start": "00:02:33.120",
+      "end": "00:02:40.400"
+    },
+    {
+      "timestamp": "00:02:37.120 --> 00:02:42.560",
+      "text": "and it requires a multi-step reasoning",
+      "start": "00:02:37.120",
+      "end": "00:02:42.560"
+    },
+    {
+      "timestamp": "00:02:40.400 --> 00:02:45.439",
+      "text": "first of all and then you come up with a",
+      "start": "00:02:40.400",
+      "end": "00:02:45.439"
+    }
+  ],
+  "start_time": "00:02:27.280",
+  "end_time": "00:02:45.439",
+  "merged_text": "requires multi-step planning. Okay. So, let's call this a broader goal. It is not a simple task. It's a complex task and it requires a multi-step reasoning first of all and then you come up with a",
+  "segment_count": 5
+}

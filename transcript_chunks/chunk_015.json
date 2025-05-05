@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:03:47.039 --> 00:03:51.679",
+      "text": "want to order a laptop. So you have some",
+      "start": "00:03:47.039",
+      "end": "00:03:51.679"
+    },
+    {
+      "timestamp": "00:03:49.759 --> 00:03:54.399",
+      "text": "kind of you know inventory management",
+      "start": "00:03:49.759",
+      "end": "00:03:54.399"
+    },
+    {
+      "timestamp": "00:03:51.680 --> 00:03:57.840",
+      "text": "system or some kind of uh IT support",
+      "start": "00:03:51.680",
+      "end": "00:03:57.840"
+    },
+    {
+      "timestamp": "00:03:54.400 --> 00:04:01.760",
+      "text": "desk where you can issue ID card order",
+      "start": "00:03:54.400",
+      "end": "00:04:01.760"
+    },
+    {
+      "timestamp": "00:03:57.840 --> 00:04:04.959",
+      "text": "laptop and so on. This is agentic AI",
+      "start": "00:03:57.840",
+      "end": "00:04:04.959"
+    },
+    {
+      "timestamp": "00:04:01.759 --> 00:04:07.438",
+      "text": "folks. It requires multi-step reasoning",
+      "start": "00:04:01.759",
+      "end": "00:04:07.438"
+    }
+  ],
+  "start_time": "00:03:47.039",
+  "end_time": "00:04:07.438",
+  "merged_text": "want to order a laptop. So you have some kind of you know inventory management system or some kind of uh IT support desk where you can issue ID card order laptop and so on. This is agentic AI folks. It requires multi-step reasoning",
+  "segment_count": 6
+}

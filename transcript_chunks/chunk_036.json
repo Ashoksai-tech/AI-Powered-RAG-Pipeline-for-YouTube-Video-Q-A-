@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:09:33.360 --> 00:09:38.720",
+      "text": "code. You can use low code or no code",
+      "start": "00:09:33.360",
+      "end": "00:09:38.720"
+    },
+    {
+      "timestamp": "00:09:36.320 --> 00:09:40.879",
+      "text": "tools such as Zapier. Here they are",
+      "start": "00:09:36.320",
+      "end": "00:09:40.879"
+    },
+    {
+      "timestamp": "00:09:38.720 --> 00:09:43.040",
+      "text": "showing a cloud integration with their",
+      "start": "00:09:38.720",
+      "end": "00:09:43.040"
+    },
+    {
+      "timestamp": "00:09:40.879 --> 00:09:44.720",
+      "text": "Zapier MCP server and you have connected",
+      "start": "00:09:40.879",
+      "end": "00:09:44.720"
+    },
+    {
+      "timestamp": "00:09:43.039 --> 00:09:46.319",
+      "text": "all these tools and now you're saying",
+      "start": "00:09:43.039",
+      "end": "00:09:46.319"
+    },
+    {
+      "timestamp": "00:09:44.720 --> 00:09:48.959",
+      "text": "like what's on my calendar. It will",
+      "start": "00:09:44.720",
+      "end": "00:09:48.959"
+    },
+    {
+      "timestamp": "00:09:46.320 --> 00:09:52.160",
+      "text": "access the uh calendar tool and it will",
+      "start": "00:09:46.320",
+      "end": "00:09:52.160"
+    }
+  ],
+  "start_time": "00:09:33.360",
+  "end_time": "00:09:52.160",
+  "merged_text": "code. You can use low code or no code tools such as Zapier. Here they are showing a cloud integration with their Zapier MCP server and you have connected all these tools and now you're saying like what's on my calendar. It will access the uh calendar tool and it will",
+  "segment_count": 7
+}

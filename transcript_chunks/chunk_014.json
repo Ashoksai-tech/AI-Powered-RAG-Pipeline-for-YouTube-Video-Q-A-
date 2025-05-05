@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:03:29.919 --> 00:03:35.919",
+      "text": "email, Slack access, etc. for that",
+      "start": "00:03:29.919",
+      "end": "00:03:35.919"
+    },
+    {
+      "timestamp": "00:03:32.799 --> 00:03:39.519",
+      "text": "particular intern. Again, here you will",
+      "start": "00:03:32.799",
+      "end": "00:03:39.519"
+    },
+    {
+      "timestamp": "00:03:35.919 --> 00:03:41.759",
+      "text": "have uh LLM's role being played as well",
+      "start": "00:03:35.919",
+      "end": "00:03:41.759"
+    },
+    {
+      "timestamp": "00:03:39.519 --> 00:03:44.640",
+      "text": "as you have integration with multiple",
+      "start": "00:03:39.519",
+      "end": "00:03:44.640"
+    },
+    {
+      "timestamp": "00:03:41.759 --> 00:03:47.039",
+      "text": "tools such as Slack, Outlook, u your",
+      "start": "00:03:41.759",
+      "end": "00:03:47.039"
+    },
+    {
+      "timestamp": "00:03:44.639 --> 00:03:49.759",
+      "text": "Wi-Fi system and so on. And then you",
+      "start": "00:03:44.639",
+      "end": "00:03:49.759"
+    }
+  ],
+  "start_time": "00:03:29.919",
+  "end_time": "00:03:49.759",
+  "merged_text": "email, Slack access, etc. for that particular intern. Again, here you will have uh LLM's role being played as well as you have integration with multiple tools such as Slack, Outlook, u your Wi-Fi system and so on. And then you",
+  "segment_count": 6
+}

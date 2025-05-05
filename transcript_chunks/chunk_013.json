@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:03:14.639 --> 00:03:18.238",
+      "text": "schedule a meeting you need to write",
+      "start": "00:03:14.639",
+      "end": "00:03:18.238"
+    },
+    {
+      "timestamp": "00:03:16.318 --> 00:03:20.639",
+      "text": "some description on what this meeting is",
+      "start": "00:03:16.318",
+      "end": "00:03:20.639"
+    },
+    {
+      "timestamp": "00:03:18.239 --> 00:03:23.680",
+      "text": "about and all of that you can generate",
+      "start": "00:03:18.239",
+      "end": "00:03:23.680"
+    },
+    {
+      "timestamp": "00:03:20.639 --> 00:03:27.439",
+      "text": "using this LLM that you have then you",
+      "start": "00:03:20.639",
+      "end": "00:03:27.439"
+    },
+    {
+      "timestamp": "00:03:23.680 --> 00:03:29.920",
+      "text": "want to create a ticket in IT help desk",
+      "start": "00:03:23.680",
+      "end": "00:03:29.920"
+    },
+    {
+      "timestamp": "00:03:27.439 --> 00:03:32.799",
+      "text": "where you get Wi-Fi credential s the",
+      "start": "00:03:27.439",
+      "end": "00:03:32.799"
+    }
+  ],
+  "start_time": "00:03:14.639",
+  "end_time": "00:03:32.799",
+  "merged_text": "schedule a meeting you need to write some description on what this meeting is about and all of that you can generate using this LLM that you have then you want to create a ticket in IT help desk where you get Wi-Fi credential s the",
+  "segment_count": 6
+}

@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:14:08.000 --> 00:14:13.440",
+      "text": "you understood this amazing explanation",
+      "start": "00:14:08.000",
+      "end": "00:14:13.440"
+    },
+    {
+      "timestamp": "00:14:10.958 --> 00:14:16.159",
+      "text": "about traditional rag versus a gentic",
+      "start": "00:14:10.958",
+      "end": "00:14:16.159"
+    },
+    {
+      "timestamp": "00:14:13.440 --> 00:14:18.160",
+      "text": "rag. Super amazing. Now tomorrow you",
+      "start": "00:14:13.440",
+      "end": "00:14:18.160"
+    },
+    {
+      "timestamp": "00:14:16.159 --> 00:14:20.078",
+      "text": "build a use case of your own any number",
+      "start": "00:14:16.159",
+      "end": "00:14:20.078"
+    },
+    {
+      "timestamp": "00:14:18.159 --> 00:14:22.879",
+      "text": "of vector databases you can probably",
+      "start": "00:14:18.159",
+      "end": "00:14:22.879"
+    },
+    {
+      "timestamp": "00:14:20.078 --> 00:14:25.039",
+      "text": "create add create it as a retriever tool",
+      "start": "00:14:20.078",
+      "end": "00:14:25.039"
+    },
+    {
+      "timestamp": "00:14:22.879 --> 00:14:27.120",
+      "text": "and try to integrate as a tools to this",
+      "start": "00:14:22.879",
+      "end": "00:14:27.120"
+    }
+  ],
+  "start_time": "00:14:08.000",
+  "end_time": "00:14:27.120",
+  "merged_text": "you understood this amazing explanation about traditional rag versus a gentic rag. Super amazing. Now tomorrow you build a use case of your own any number of vector databases you can probably create add create it as a retriever tool and try to integrate as a tools to this",
+  "segment_count": 7
+}

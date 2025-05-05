@@ -1,0 +1,62 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:14:25.039 --> 00:14:28.879",
+      "text": "particular agent the agent will be able",
+      "start": "00:14:25.039",
+      "end": "00:14:28.879"
+    },
+    {
+      "timestamp": "00:14:27.120 --> 00:14:30.879",
+      "text": "to handle that particular task of",
+      "start": "00:14:27.120",
+      "end": "00:14:30.879"
+    },
+    {
+      "timestamp": "00:14:28.879 --> 00:14:32.480",
+      "text": "routing your query and getting the",
+      "start": "00:14:28.879",
+      "end": "00:14:32.480"
+    },
+    {
+      "timestamp": "00:14:30.879 --> 00:14:34.879",
+      "text": "response and from the LLM you'll be able",
+      "start": "00:14:30.879",
+      "end": "00:14:34.879"
+    },
+    {
+      "timestamp": "00:14:32.480 --> 00:14:36.639",
+      "text": "to get the output right so I hope you",
+      "start": "00:14:32.480",
+      "end": "00:14:36.639"
+    },
+    {
+      "timestamp": "00:14:34.879 --> 00:14:38.159",
+      "text": "like this particular video this was it",
+      "start": "00:14:34.879",
+      "end": "00:14:38.159"
+    },
+    {
+      "timestamp": "00:14:36.639 --> 00:14:39.600",
+      "text": "from my side I'll see you all in the",
+      "start": "00:14:36.639",
+      "end": "00:14:39.600"
+    },
+    {
+      "timestamp": "00:14:38.159 --> 00:14:41.439",
+      "text": "next video have a great day thank you",
+      "start": "00:14:38.159",
+      "end": "00:14:41.439"
+    },
+    {
+      "timestamp": "00:14:39.600 --> 00:14:44.159",
+      "text": "one and all take care and these all",
+      "start": "00:14:39.600",
+      "end": "00:14:44.159"
+    }
+  ],
+  "start_time": "00:14:25.039",
+  "end_time": "00:14:44.159",
+  "merged_text": "particular agent the agent will be able to handle that particular task of routing your query and getting the response and from the LLM you'll be able to get the output right so I hope you like this particular video this was it from my side I'll see you all in the next video have a great day thank you one and all take care and these all",
+  "segment_count": 9
+}

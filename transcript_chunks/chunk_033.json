@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:08:43.918 --> 00:08:49.600",
+      "text": "and it will do multi-step reasoning",
+      "start": "00:08:43.918",
+      "end": "00:08:49.600"
+    },
+    {
+      "timestamp": "00:08:47.519 --> 00:08:51.919",
+      "text": "planning and then it will execute those",
+      "start": "00:08:47.519",
+      "end": "00:08:51.919"
+    },
+    {
+      "timestamp": "00:08:49.600 --> 00:08:53.920",
+      "text": "steps. So see here it is doing",
+      "start": "00:08:49.600",
+      "end": "00:08:53.920"
+    },
+    {
+      "timestamp": "00:08:51.919 --> 00:08:56.799",
+      "text": "reasoning. Okay, I need to gather this",
+      "start": "00:08:51.919",
+      "end": "00:08:56.799"
+    },
+    {
+      "timestamp": "00:08:53.919 --> 00:08:58.559",
+      "text": "much information. Here is my reasoning.",
+      "start": "00:08:53.919",
+      "end": "00:08:58.559"
+    },
+    {
+      "timestamp": "00:08:56.799 --> 00:09:02.319",
+      "text": "Then this is the step number two.",
+      "start": "00:08:56.799",
+      "end": "00:09:02.319"
+    },
+    {
+      "timestamp": "00:08:58.559 --> 00:09:03.838",
+      "text": "Compile a report. Uh you need to perform",
+      "start": "00:08:58.559",
+      "end": "00:09:03.838"
+    }
+  ],
+  "start_time": "00:08:43.918",
+  "end_time": "00:09:03.838",
+  "merged_text": "and it will do multi-step reasoning planning and then it will execute those steps. So see here it is doing reasoning. Okay, I need to gather this much information. Here is my reasoning. Then this is the step number two. Compile a report. Uh you need to perform",
+  "segment_count": 7
+}

@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:00:46.719 --> 00:00:53.679",
+      "text": "Now is this an agentic AI? The answer is",
+      "start": "00:00:46.719",
+      "end": "00:00:53.679"
+    },
+    {
+      "timestamp": "00:00:50.640 --> 00:00:56.159",
+      "text": "no. Anthropic has this document on",
+      "start": "00:00:50.640",
+      "end": "00:00:56.159"
+    },
+    {
+      "timestamp": "00:00:53.679 --> 00:00:58.159",
+      "text": "building effective agents and they",
+      "start": "00:00:53.679",
+      "end": "00:00:58.159"
+    },
+    {
+      "timestamp": "00:00:56.159 --> 00:01:00.718",
+      "text": "categorize these AI applications into",
+      "start": "00:00:56.159",
+      "end": "00:01:00.718"
+    },
+    {
+      "timestamp": "00:00:58.159 --> 00:01:03.038",
+      "text": "two categories workflows and agents.",
+      "start": "00:00:58.159",
+      "end": "00:01:03.038"
+    },
+    {
+      "timestamp": "00:01:00.719 --> 00:01:05.840",
+      "text": "This rack based chatboard is actually a",
+      "start": "00:01:00.719",
+      "end": "00:01:05.840"
+    }
+  ],
+  "start_time": "00:00:46.719",
+  "end_time": "00:01:05.840",
+  "merged_text": "Now is this an agentic AI? The answer is no. Anthropic has this document on building effective agents and they categorize these AI applications into two categories workflows and agents. This rack based chatboard is actually a",
+  "segment_count": 6
+}

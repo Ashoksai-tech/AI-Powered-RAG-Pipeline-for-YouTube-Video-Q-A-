@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:09:18.639 --> 00:09:23.600",
+      "text": "things you'll find in any uh equity",
+      "start": "00:09:18.639",
+      "end": "00:09:23.600"
+    },
+    {
+      "timestamp": "00:09:20.879 --> 00:09:26.320",
+      "text": "research report and recent news as well.",
+      "start": "00:09:20.879",
+      "end": "00:09:26.320"
+    },
+    {
+      "timestamp": "00:09:23.600 --> 00:09:28.320",
+      "text": "I did not say okay have news in the",
+      "start": "00:09:23.600",
+      "end": "00:09:28.320"
+    },
+    {
+      "timestamp": "00:09:26.320 --> 00:09:30.879",
+      "text": "bottom have analyst recommendation and",
+      "start": "00:09:26.320",
+      "end": "00:09:30.879"
+    },
+    {
+      "timestamp": "00:09:28.320 --> 00:09:33.360",
+      "text": "so on. It kind of figured it out on its",
+      "start": "00:09:28.320",
+      "end": "00:09:33.360"
+    },
+    {
+      "timestamp": "00:09:30.879 --> 00:09:36.320",
+      "text": "own. You don't have to always write the",
+      "start": "00:09:30.879",
+      "end": "00:09:36.320"
+    }
+  ],
+  "start_time": "00:09:18.639",
+  "end_time": "00:09:36.320",
+  "merged_text": "things you'll find in any uh equity research report and recent news as well. I did not say okay have news in the bottom have analyst recommendation and so on. It kind of figured it out on its own. You don't have to always write the",
+  "segment_count": 6
+}

@@ -1,0 +1,38 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:10:56.240 --> 00:11:03.039",
+      "text": "based system or tool augmented system or",
+      "start": "00:10:56.240",
+      "end": "00:11:03.039"
+    },
+    {
+      "timestamp": "00:10:59.759 --> 00:11:05.278",
+      "text": "even agentic AI. Okay. So agentic for",
+      "start": "00:10:59.759",
+      "end": "00:11:05.278"
+    },
+    {
+      "timestamp": "00:11:03.039 --> 00:11:08.319",
+      "text": "agentic AI this AI agent piece is going",
+      "start": "00:11:03.039",
+      "end": "00:11:08.319"
+    },
+    {
+      "timestamp": "00:11:05.278 --> 00:11:11.919",
+      "text": "to be important. The kind of prompt that",
+      "start": "00:11:05.278",
+      "end": "00:11:11.919"
+    },
+    {
+      "timestamp": "00:11:08.320 --> 00:11:14.320",
+      "text": "you write you can make it solve really",
+      "start": "00:11:08.320",
+      "end": "00:11:14.320"
+    }
+  ],
+  "start_time": "00:10:56.240",
+  "end_time": "00:11:14.320",
+  "merged_text": "based system or tool augmented system or even agentic AI. Okay. So agentic for agentic AI this AI agent piece is going to be important. The kind of prompt that you write you can make it solve really",
+  "segment_count": 5
+}

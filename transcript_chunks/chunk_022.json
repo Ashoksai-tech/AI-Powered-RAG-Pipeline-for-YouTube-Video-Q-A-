@@ -1,0 +1,38 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:05:45.600 --> 00:05:50.160",
+      "text": "AI. If I have to put it in a very simple",
+      "start": "00:05:45.600",
+      "end": "00:05:50.160"
+    },
+    {
+      "timestamp": "00:05:47.680 --> 00:05:52.639",
+      "text": "definition, agentic AI is an AI system",
+      "start": "00:05:47.680",
+      "end": "00:05:52.639"
+    },
+    {
+      "timestamp": "00:05:50.160 --> 00:05:56.240",
+      "text": "that can make decisions and take actions",
+      "start": "00:05:50.160",
+      "end": "00:05:56.240"
+    },
+    {
+      "timestamp": "00:05:52.639 --> 00:06:01.038",
+      "text": "on its own to achieve a goal without",
+      "start": "00:05:52.639",
+      "end": "00:06:01.038"
+    },
+    {
+      "timestamp": "00:05:56.240 --> 00:06:03.360",
+      "text": "being told exactly what to do at every",
+      "start": "00:05:56.240",
+      "end": "00:06:03.360"
+    }
+  ],
+  "start_time": "00:05:45.600",
+  "end_time": "00:06:03.360",
+  "merged_text": "AI. If I have to put it in a very simple definition, agentic AI is an AI system that can make decisions and take actions on its own to achieve a goal without being told exactly what to do at every",
+  "segment_count": 5
+}

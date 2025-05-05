@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:06:15.918 --> 00:06:22.639",
+      "text": "one tool augmented chatboard is reactive",
+      "start": "00:06:15.918",
+      "end": "00:06:22.639"
+    },
+    {
+      "timestamp": "00:06:19.038 --> 00:06:25.599",
+      "text": "and it also has access to tool but it",
+      "start": "00:06:19.038",
+      "end": "00:06:25.599"
+    },
+    {
+      "timestamp": "00:06:22.639 --> 00:06:28.918",
+      "text": "cannot reason plan and be proactive.",
+      "start": "00:06:22.639",
+      "end": "00:06:28.918"
+    },
+    {
+      "timestamp": "00:06:25.600 --> 00:06:31.039",
+      "text": "Whereas agentic AI system has all these",
+      "start": "00:06:25.600",
+      "end": "00:06:31.039"
+    },
+    {
+      "timestamp": "00:06:28.918 --> 00:06:33.519",
+      "text": "characteristics. There are many examples",
+      "start": "00:06:28.918",
+      "end": "00:06:33.519"
+    },
+    {
+      "timestamp": "00:06:31.038 --> 00:06:35.519",
+      "text": "of agentic AI systems. For example, AI",
+      "start": "00:06:31.038",
+      "end": "00:06:35.519"
+    }
+  ],
+  "start_time": "00:06:15.918",
+  "end_time": "00:06:35.519",
+  "merged_text": "one tool augmented chatboard is reactive and it also has access to tool but it cannot reason plan and be proactive. Whereas agentic AI system has all these characteristics. There are many examples of agentic AI systems. For example, AI",
+  "segment_count": 6
+}

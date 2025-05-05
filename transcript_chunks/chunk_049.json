@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:13:06.559 --> 00:13:11.919",
+      "text": "technical team and so on. Uh everything",
+      "start": "00:13:06.559",
+      "end": "00:13:11.919"
+    },
+    {
+      "timestamp": "00:13:09.120 --> 00:13:14.159",
+      "text": "is hardwired through code here. So this",
+      "start": "00:13:09.120",
+      "end": "00:13:14.159"
+    },
+    {
+      "timestamp": "00:13:11.919 --> 00:13:16.639",
+      "text": "is a workflow. There is another example",
+      "start": "00:13:11.919",
+      "end": "00:13:16.639"
+    },
+    {
+      "timestamp": "00:13:14.159 --> 00:13:18.879",
+      "text": "of a workflow where uh you perform",
+      "start": "00:13:14.159",
+      "end": "00:13:18.879"
+    },
+    {
+      "timestamp": "00:13:16.639 --> 00:13:21.919",
+      "text": "individual tasks using these LLMs and",
+      "start": "00:13:16.639",
+      "end": "00:13:21.919"
+    },
+    {
+      "timestamp": "00:13:18.879 --> 00:13:24.799",
+      "text": "then you aggregate them. Okay. Uh here",
+      "start": "00:13:18.879",
+      "end": "00:13:24.799"
+    }
+  ],
+  "start_time": "00:13:06.559",
+  "end_time": "00:13:24.799",
+  "merged_text": "technical team and so on. Uh everything is hardwired through code here. So this is a workflow. There is another example of a workflow where uh you perform individual tasks using these LLMs and then you aggregate them. Okay. Uh here",
+  "segment_count": 6
+}

@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:00:30.399 --> 00:00:36.719",
+      "text": "leave and for this all this policy data",
+      "start": "00:00:30.399",
+      "end": "00:00:36.719"
+    },
+    {
+      "timestamp": "00:00:34.159 --> 00:00:39.199",
+      "text": "you have it available in PDF files you",
+      "start": "00:00:34.159",
+      "end": "00:00:39.199"
+    },
+    {
+      "timestamp": "00:00:36.719 --> 00:00:42.640",
+      "text": "can build a retrieval augmented",
+      "start": "00:00:36.719",
+      "end": "00:00:42.640"
+    },
+    {
+      "timestamp": "00:00:39.200 --> 00:00:45.040",
+      "text": "generation chatboard which can simply",
+      "start": "00:00:39.200",
+      "end": "00:00:45.040"
+    },
+    {
+      "timestamp": "00:00:42.640 --> 00:00:46.719",
+      "text": "pull the information from this PDF and",
+      "start": "00:00:42.640",
+      "end": "00:00:46.719"
+    },
+    {
+      "timestamp": "00:00:45.039 --> 00:00:50.640",
+      "text": "answer these questions.",
+      "start": "00:00:45.039",
+      "end": "00:00:50.640"
+    }
+  ],
+  "start_time": "00:00:30.399",
+  "end_time": "00:00:50.640",
+  "merged_text": "leave and for this all this policy data you have it available in PDF files you can build a retrieval augmented generation chatboard which can simply pull the information from this PDF and answer these questions.",
+  "segment_count": 6
+}

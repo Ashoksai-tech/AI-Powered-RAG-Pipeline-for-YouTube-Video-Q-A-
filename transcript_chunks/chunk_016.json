@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:04:04.959 --> 00:04:10.239",
+      "text": "and you have to do multi-step planning",
+      "start": "00:04:04.959",
+      "end": "00:04:10.239"
+    },
+    {
+      "timestamp": "00:04:07.438 --> 00:04:13.519",
+      "text": "and in each of these steps LLMs will be",
+      "start": "00:04:07.438",
+      "end": "00:04:13.519"
+    },
+    {
+      "timestamp": "00:04:10.239 --> 00:04:15.759",
+      "text": "involved along with APIs and tools and",
+      "start": "00:04:10.239",
+      "end": "00:04:15.759"
+    },
+    {
+      "timestamp": "00:04:13.519 --> 00:04:18.639",
+      "text": "knowledge and memory and so on. So if",
+      "start": "00:04:13.519",
+      "end": "00:04:18.639"
+    },
+    {
+      "timestamp": "00:04:15.759 --> 00:04:21.839",
+      "text": "you describe a few characteristics of",
+      "start": "00:04:15.759",
+      "end": "00:04:21.839"
+    },
+    {
+      "timestamp": "00:04:18.639 --> 00:04:24.160",
+      "text": "agentic AI system then first one is goal",
+      "start": "00:04:18.639",
+      "end": "00:04:24.160"
+    }
+  ],
+  "start_time": "00:04:04.959",
+  "end_time": "00:04:24.160",
+  "merged_text": "and you have to do multi-step planning and in each of these steps LLMs will be involved along with APIs and tools and knowledge and memory and so on. So if you describe a few characteristics of agentic AI system then first one is goal",
+  "segment_count": 6
+}

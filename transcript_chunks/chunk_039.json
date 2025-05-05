@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:10:25.759 --> 00:10:29.559",
+      "text": "tool I want to mention which is similar",
+      "start": "00:10:25.759",
+      "end": "00:10:29.559"
+    },
+    {
+      "timestamp": "00:10:27.360 --> 00:10:32.879",
+      "text": "to Zapier is",
+      "start": "00:10:27.360",
+      "end": "00:10:32.879"
+    },
+    {
+      "timestamp": "00:10:29.559 --> 00:10:36.159",
+      "text": "N8N where you can do drag and drop",
+      "start": "00:10:29.559",
+      "end": "00:10:36.159"
+    },
+    {
+      "timestamp": "00:10:32.879 --> 00:10:38.559",
+      "text": "essentially and see here let's say you",
+      "start": "00:10:32.879",
+      "end": "00:10:38.559"
+    },
+    {
+      "timestamp": "00:10:36.159 --> 00:10:40.879",
+      "text": "are doing create user form submission",
+      "start": "00:10:36.159",
+      "end": "00:10:40.879"
+    },
+    {
+      "timestamp": "00:10:38.559 --> 00:10:44.000",
+      "text": "and then it will trigger this AI agent",
+      "start": "00:10:38.559",
+      "end": "00:10:44.000"
+    }
+  ],
+  "start_time": "00:10:25.759",
+  "end_time": "00:10:44.000",
+  "merged_text": "tool I want to mention which is similar to Zapier is N8N where you can do drag and drop essentially and see here let's say you are doing create user form submission and then it will trigger this AI agent",
+  "segment_count": 6
+}

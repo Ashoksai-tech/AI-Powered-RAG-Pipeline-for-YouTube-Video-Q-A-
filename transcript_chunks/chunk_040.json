@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:10:40.879 --> 00:10:46.799",
+      "text": "which has anthropic chat model it has",
+      "start": "00:10:40.879",
+      "end": "00:10:46.799"
+    },
+    {
+      "timestamp": "00:10:44.000 --> 00:10:49.839",
+      "text": "posgress chat memory it has access to",
+      "start": "00:10:44.000",
+      "end": "00:10:49.839"
+    },
+    {
+      "timestamp": "00:10:46.799 --> 00:10:51.278",
+      "text": "Jira Microsoft enter ID and so on and",
+      "start": "00:10:46.799",
+      "end": "00:10:51.278"
+    },
+    {
+      "timestamp": "00:10:49.839 --> 00:10:53.360",
+      "text": "then you can define these kind of",
+      "start": "00:10:49.839",
+      "end": "00:10:53.360"
+    },
+    {
+      "timestamp": "00:10:51.278 --> 00:10:56.240",
+      "text": "workflows see you can define these kind",
+      "start": "00:10:51.278",
+      "end": "00:10:56.240"
+    },
+    {
+      "timestamp": "00:10:53.360 --> 00:10:59.759",
+      "text": "of workflows and you can create rag",
+      "start": "00:10:53.360",
+      "end": "00:10:59.759"
+    }
+  ],
+  "start_time": "00:10:40.879",
+  "end_time": "00:10:59.759",
+  "merged_text": "which has anthropic chat model it has posgress chat memory it has access to Jira Microsoft enter ID and so on and then you can define these kind of workflows see you can define these kind of workflows and you can create rag",
+  "segment_count": 6
+}

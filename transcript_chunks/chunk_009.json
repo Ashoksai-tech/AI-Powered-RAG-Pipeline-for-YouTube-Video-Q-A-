@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:02:09.038 --> 00:02:16.079",
+      "text": "advance this further and give it a goal",
+      "start": "00:02:09.038",
+      "end": "00:02:16.079"
+    },
+    {
+      "timestamp": "00:02:12.959 --> 00:02:19.120",
+      "text": "such as prepare for Sara's maternity",
+      "start": "00:02:12.959",
+      "end": "00:02:19.120"
+    },
+    {
+      "timestamp": "00:02:16.080 --> 00:02:21.840",
+      "text": "leave. Now, this requires multi-step",
+      "start": "00:02:16.080",
+      "end": "00:02:21.840"
+    },
+    {
+      "timestamp": "00:02:19.120 --> 00:02:24.400",
+      "text": "reasoning and multi-turn planning.",
+      "start": "00:02:19.120",
+      "end": "00:02:24.400"
+    },
+    {
+      "timestamp": "00:02:21.840 --> 00:02:27.280",
+      "text": "Another question, onboard the new intern",
+      "start": "00:02:21.840",
+      "end": "00:02:27.280"
+    },
+    {
+      "timestamp": "00:02:24.400 --> 00:02:30.239",
+      "text": "joining next Monday. Well, this again",
+      "start": "00:02:24.400",
+      "end": "00:02:30.239"
+    }
+  ],
+  "start_time": "00:02:09.038",
+  "end_time": "00:02:30.239",
+  "merged_text": "advance this further and give it a goal such as prepare for Sara's maternity leave. Now, this requires multi-step reasoning and multi-turn planning. Another question, onboard the new intern joining next Monday. Well, this again",
+  "segment_count": 6
+}

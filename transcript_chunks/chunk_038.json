@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:10:07.919 --> 00:10:14.240",
+      "text": "l veo is a CEO at whatever company. Uh",
+      "start": "00:10:07.919",
+      "end": "00:10:14.240"
+    },
+    {
+      "timestamp": "00:10:12.000 --> 00:10:17.519",
+      "text": "these are simple tasks but you can have",
+      "start": "00:10:12.000",
+      "end": "00:10:17.519"
+    },
+    {
+      "timestamp": "00:10:14.240 --> 00:10:21.039",
+      "text": "complex tasks you can use a reasoning",
+      "start": "00:10:14.240",
+      "end": "00:10:21.039"
+    },
+    {
+      "timestamp": "00:10:17.519 --> 00:10:23.839",
+      "text": "model and you can uh design your MCP",
+      "start": "00:10:17.519",
+      "end": "00:10:23.839"
+    },
+    {
+      "timestamp": "00:10:21.039 --> 00:10:25.759",
+      "text": "server such that it can handle those",
+      "start": "00:10:21.039",
+      "end": "00:10:25.759"
+    },
+    {
+      "timestamp": "00:10:23.839 --> 00:10:27.360",
+      "text": "multi-step reasoning process. The other",
+      "start": "00:10:23.839",
+      "end": "00:10:27.360"
+    }
+  ],
+  "start_time": "00:10:07.919",
+  "end_time": "00:10:27.360",
+  "merged_text": "l veo is a CEO at whatever company. Uh these are simple tasks but you can have complex tasks you can use a reasoning model and you can uh design your MCP server such that it can handle those multi-step reasoning process. The other",
+  "segment_count": 6
+}

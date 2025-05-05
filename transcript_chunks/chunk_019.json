@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:04:55.519 --> 00:05:00.719",
+      "text": "that it is doing in a autonomous way. It",
+      "start": "00:04:55.519",
+      "end": "00:05:00.719"
+    },
+    {
+      "timestamp": "00:04:58.639 --> 00:05:02.879",
+      "text": "is not saying okay go to outlook click",
+      "start": "00:04:58.639",
+      "end": "00:05:02.879"
+    },
+    {
+      "timestamp": "00:05:00.720 --> 00:05:05.759",
+      "text": "this button. It is actually doing that",
+      "start": "00:05:00.720",
+      "end": "00:05:05.759"
+    },
+    {
+      "timestamp": "00:05:02.879 --> 00:05:08.560",
+      "text": "work. It is performing actions for you.",
+      "start": "00:05:02.879",
+      "end": "00:05:08.560"
+    },
+    {
+      "timestamp": "00:05:05.759 --> 00:05:10.720",
+      "text": "Then it has access to tools. All these",
+      "start": "00:05:05.759",
+      "end": "00:05:10.720"
+    },
+    {
+      "timestamp": "00:05:08.560 --> 00:05:13.199",
+      "text": "tools okay outlook and HR management",
+      "start": "00:05:08.560",
+      "end": "00:05:13.199"
+    },
+    {
+      "timestamp": "00:05:10.720 --> 00:05:16.160",
+      "text": "system and so on. knowledge which can be",
+      "start": "00:05:10.720",
+      "end": "00:05:16.160"
+    }
+  ],
+  "start_time": "00:04:55.519",
+  "end_time": "00:05:16.160",
+  "merged_text": "that it is doing in a autonomous way. It is not saying okay go to outlook click this button. It is actually doing that work. It is performing actions for you. Then it has access to tools. All these tools okay outlook and HR management system and so on. knowledge which can be",
+  "segment_count": 7
+}

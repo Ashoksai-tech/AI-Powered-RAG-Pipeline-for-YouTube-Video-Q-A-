@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:12:17.278 --> 00:12:21.919",
+      "text": "subcomponent within your agentic AI",
+      "start": "00:12:17.278",
+      "end": "00:12:21.919"
+    },
+    {
+      "timestamp": "00:12:19.839 --> 00:12:23.920",
+      "text": "system. If you want to see some real",
+      "start": "00:12:19.839",
+      "end": "00:12:23.920"
+    },
+    {
+      "timestamp": "00:12:21.919 --> 00:12:26.240",
+      "text": "project examples along with the code for",
+      "start": "00:12:21.919",
+      "end": "00:12:26.240"
+    },
+    {
+      "timestamp": "00:12:23.919 --> 00:12:28.399",
+      "text": "rag and two augmented AI systems then I",
+      "start": "00:12:23.919",
+      "end": "00:12:28.399"
+    },
+    {
+      "timestamp": "00:12:26.240 --> 00:12:30.480",
+      "text": "have two different videos. We have given",
+      "start": "00:12:26.240",
+      "end": "00:12:30.480"
+    },
+    {
+      "timestamp": "00:12:28.399 --> 00:12:32.759",
+      "text": "all the code. See the code for both the",
+      "start": "00:12:28.399",
+      "end": "00:12:32.759"
+    },
+    {
+      "timestamp": "00:12:30.480 --> 00:12:36.560",
+      "text": "projects is here. This is a cold email",
+      "start": "00:12:30.480",
+      "end": "00:12:36.560"
+    }
+  ],
+  "start_time": "00:12:17.278",
+  "end_time": "00:12:36.560",
+  "merged_text": "subcomponent within your agentic AI system. If you want to see some real project examples along with the code for rag and two augmented AI systems then I have two different videos. We have given all the code. See the code for both the projects is here. This is a cold email",
+  "segment_count": 7
+}

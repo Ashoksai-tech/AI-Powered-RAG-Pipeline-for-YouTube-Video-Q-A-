@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:01:19.118 --> 00:01:24.000",
+      "text": "left? You can also apply for the leaves",
+      "start": "00:01:19.118",
+      "end": "00:01:24.000"
+    },
+    {
+      "timestamp": "00:01:22.159 --> 00:01:25.600",
+      "text": "right here. Now, see this is important.",
+      "start": "00:01:22.159",
+      "end": "00:01:25.600"
+    },
+    {
+      "timestamp": "00:01:24.000 --> 00:01:28.879",
+      "text": "This is not just question and answer.",
+      "start": "00:01:24.000",
+      "end": "00:01:28.879"
+    },
+    {
+      "timestamp": "00:01:25.599 --> 00:01:31.039",
+      "text": "You are taking actions. So, here you",
+      "start": "00:01:25.599",
+      "end": "00:01:31.039"
+    },
+    {
+      "timestamp": "00:01:28.879 --> 00:01:34.239",
+      "text": "obviously have access to your policy",
+      "start": "00:01:28.879",
+      "end": "00:01:34.239"
+    },
+    {
+      "timestamp": "00:01:31.040 --> 00:01:38.400",
+      "text": "data via PDF. But on top of that you",
+      "start": "00:01:31.040",
+      "end": "00:01:38.400"
+    }
+  ],
+  "start_time": "00:01:19.118",
+  "end_time": "00:01:38.400",
+  "merged_text": "left? You can also apply for the leaves right here. Now, see this is important. This is not just question and answer. You are taking actions. So, here you obviously have access to your policy data via PDF. But on top of that you",
+  "segment_count": 6
+}

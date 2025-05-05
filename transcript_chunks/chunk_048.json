@@ -1,0 +1,50 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:12:49.519 --> 00:12:53.200",
+      "text": "this is one workflow based design",
+      "start": "00:12:49.519",
+      "end": "00:12:53.200"
+    },
+    {
+      "timestamp": "00:12:51.200 --> 00:12:55.759",
+      "text": "pattern where let's say you have a",
+      "start": "00:12:51.200",
+      "end": "00:12:55.759"
+    },
+    {
+      "timestamp": "00:12:53.200 --> 00:12:59.278",
+      "text": "chatboard and the question might be",
+      "start": "00:12:53.200",
+      "end": "00:12:59.278"
+    },
+    {
+      "timestamp": "00:12:55.759 --> 00:13:01.838",
+      "text": "routed to a technical support team or a",
+      "start": "00:12:55.759",
+      "end": "00:13:01.838"
+    },
+    {
+      "timestamp": "00:12:59.278 --> 00:13:03.679",
+      "text": "sales team or some other team. In that",
+      "start": "00:12:59.278",
+      "end": "00:13:03.679"
+    },
+    {
+      "timestamp": "00:13:01.839 --> 00:13:06.560",
+      "text": "case you can have LLM as a router and",
+      "start": "00:13:01.839",
+      "end": "00:13:06.560"
+    },
+    {
+      "timestamp": "00:13:03.679 --> 00:13:09.120",
+      "text": "then individual LLMs each for sales team",
+      "start": "00:13:03.679",
+      "end": "00:13:09.120"
+    }
+  ],
+  "start_time": "00:12:49.519",
+  "end_time": "00:13:09.120",
+  "merged_text": "this is one workflow based design pattern where let's say you have a chatboard and the question might be routed to a technical support team or a sales team or some other team. In that case you can have LLM as a router and then individual LLMs each for sales team",
+  "segment_count": 7
+}

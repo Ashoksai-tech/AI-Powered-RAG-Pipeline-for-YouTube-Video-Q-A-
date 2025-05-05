@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:11:28.480 --> 00:11:34.159",
+      "text": "agentic AI system will have one or more",
+      "start": "00:11:28.480",
+      "end": "00:11:34.159"
+    },
+    {
+      "timestamp": "00:11:31.120 --> 00:11:36.000",
+      "text": "agents. So here you have this one agent.",
+      "start": "00:11:31.120",
+      "end": "00:11:36.000"
+    },
+    {
+      "timestamp": "00:11:34.159 --> 00:11:38.759",
+      "text": "You can have multiple agents. Okay. But",
+      "start": "00:11:34.159",
+      "end": "00:11:38.759"
+    },
+    {
+      "timestamp": "00:11:36.000 --> 00:11:42.320",
+      "text": "you need at least one AI agent with that",
+      "start": "00:11:36.000",
+      "end": "00:11:42.320"
+    },
+    {
+      "timestamp": "00:11:38.759 --> 00:11:44.078",
+      "text": "agentic complex reasoning behavior. The",
+      "start": "00:11:38.759",
+      "end": "00:11:44.078"
+    },
+    {
+      "timestamp": "00:11:42.320 --> 00:11:47.120",
+      "text": "second question you might have is what",
+      "start": "00:11:42.320",
+      "end": "00:11:47.120"
+    }
+  ],
+  "start_time": "00:11:28.480",
+  "end_time": "00:11:47.120",
+  "merged_text": "agentic AI system will have one or more agents. So here you have this one agent. You can have multiple agents. Okay. But you need at least one AI agent with that agentic complex reasoning behavior. The second question you might have is what",
+  "segment_count": 6
+}

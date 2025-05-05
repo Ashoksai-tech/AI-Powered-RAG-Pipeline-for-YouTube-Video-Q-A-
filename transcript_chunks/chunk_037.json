@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:09:48.958 --> 00:09:55.119",
+      "text": "tell you uh what do you have then you",
+      "start": "00:09:48.958",
+      "end": "00:09:55.119"
+    },
+    {
+      "timestamp": "00:09:52.159 --> 00:09:57.759",
+      "text": "can have some other task. See here it is",
+      "start": "00:09:52.159",
+      "end": "00:09:57.759"
+    },
+    {
+      "timestamp": "00:09:55.120 --> 00:10:00.240",
+      "text": "showing me the calendar items. Then you",
+      "start": "00:09:55.120",
+      "end": "00:10:00.240"
+    },
+    {
+      "timestamp": "00:09:57.759 --> 00:10:02.720",
+      "text": "can say can you tell me more about this",
+      "start": "00:09:57.759",
+      "end": "00:10:02.720"
+    },
+    {
+      "timestamp": "00:10:00.240 --> 00:10:07.919",
+      "text": "particular thing and it will call the",
+      "start": "00:10:00.240",
+      "end": "00:10:07.919"
+    },
+    {
+      "timestamp": "00:10:02.720 --> 00:10:12.000",
+      "text": "appropriate uh tool and it will tell you",
+      "start": "00:10:02.720",
+      "end": "00:10:12.000"
+    }
+  ],
+  "start_time": "00:09:48.958",
+  "end_time": "00:10:12.000",
+  "merged_text": "tell you uh what do you have then you can have some other task. See here it is showing me the calendar items. Then you can say can you tell me more about this particular thing and it will call the appropriate uh tool and it will tell you",
+  "segment_count": 6
+}

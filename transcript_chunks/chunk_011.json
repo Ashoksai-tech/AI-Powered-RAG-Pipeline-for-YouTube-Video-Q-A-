@@ -1,0 +1,44 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:02:42.560 --> 00:02:48.560",
+      "text": "plan that I need to schedule a welcome",
+      "start": "00:02:42.560",
+      "end": "00:02:48.560"
+    },
+    {
+      "timestamp": "00:02:45.439 --> 00:02:50.878",
+      "text": "meeting with this intern and you will",
+      "start": "00:02:45.439",
+      "end": "00:02:50.878"
+    },
+    {
+      "timestamp": "00:02:48.560 --> 00:02:53.519",
+      "text": "actually send the meeting invite via",
+      "start": "00:02:48.560",
+      "end": "00:02:53.519"
+    },
+    {
+      "timestamp": "00:02:50.878 --> 00:02:55.759",
+      "text": "Outlook or whatever uh calendar system",
+      "start": "00:02:50.878",
+      "end": "00:02:55.759"
+    },
+    {
+      "timestamp": "00:02:53.519 --> 00:02:58.319",
+      "text": "that you're using. then you might want",
+      "start": "00:02:53.519",
+      "end": "00:02:58.319"
+    },
+    {
+      "timestamp": "00:02:55.759 --> 00:03:00.639",
+      "text": "to create interns profile in HR",
+      "start": "00:02:55.759",
+      "end": "00:03:00.639"
+    }
+  ],
+  "start_time": "00:02:42.560",
+  "end_time": "00:03:00.639",
+  "merged_text": "plan that I need to schedule a welcome meeting with this intern and you will actually send the meeting invite via Outlook or whatever uh calendar system that you're using. then you might want to create interns profile in HR",
+  "segment_count": 6
+}

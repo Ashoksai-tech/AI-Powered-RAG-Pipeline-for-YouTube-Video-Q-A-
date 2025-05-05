@@ -1,0 +1,38 @@
+{
+  "segments": [
+    {
+      "timestamp": "00:06:48.800 --> 00:06:55.439",
+      "text": "see this kind of multi-step planning and",
+      "start": "00:06:48.800",
+      "end": "00:06:55.439"
+    },
+    {
+      "timestamp": "00:06:51.439 --> 00:06:58.639",
+      "text": "it will then write code execute the code",
+      "start": "00:06:51.439",
+      "end": "00:06:58.639"
+    },
+    {
+      "timestamp": "00:06:55.439 --> 00:07:02.399",
+      "text": "it will debug it fix issues again write",
+      "start": "00:06:55.439",
+      "end": "00:07:02.399"
+    },
+    {
+      "timestamp": "00:06:58.639 --> 00:07:05.439",
+      "text": "code execute it and so on okay so AI",
+      "start": "00:06:58.639",
+      "end": "00:07:05.439"
+    },
+    {
+      "timestamp": "00:07:02.399 --> 00:07:08.638",
+      "text": "coding being done through lovable,",
+      "start": "00:07:02.399",
+      "end": "00:07:08.638"
+    }
+  ],
+  "start_time": "00:06:48.800",
+  "end_time": "00:07:08.638",
+  "merged_text": "see this kind of multi-step planning and it will then write code execute the code it will debug it fix issues again write code execute it and so on okay so AI coding being done through lovable,",
+  "segment_count": 5
+}
